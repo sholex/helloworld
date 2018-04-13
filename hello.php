@@ -1,5 +1,4 @@
 <?php
-// TODO: Change the header to match your details
 /**
  * Plugin Name: Plugin Hello world
  * Description: Displaying hello world by shortcode [simple_shortcode]
